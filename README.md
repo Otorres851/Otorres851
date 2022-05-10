@@ -3,7 +3,7 @@
 
 - 💬 Pregúntame sobre **Html5,Css,JavaScript,React.js**
 
-- 📫 Contactarme **oscar4545@hotmail.com**
+- 📫 Contactame **oscar4545@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
