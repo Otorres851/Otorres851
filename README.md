@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Me llamo Oscar Torres</h1>
+<h1 align="center">Hola 👋, Me llamo Oscar Enrique Botello Torres</h1>
 <h3 align="center">Soy desarrollador Frontend Jr, apasionado por la tecnología</h3>
 
 - 💬 Pregúntame sobre **Html5,Css,JavaScript,React.js**
