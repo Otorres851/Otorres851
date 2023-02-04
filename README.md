@@ -1,6 +1,20 @@
 <h1 align="center">Hola 👋, Me llamo Oscar Enrique Botello Torres</h1>
 <h3 align="center">Soy desarrollador Frontend Jr, apasionado por la tecnología</h3>
 
+</div>
+
+<div>
+ 
+
+
+![](https://img.shields.io/github/followers/brayanrodallega?label=follow&logo=github&style=flat-square)
+![GitHub User's stars](https://img.shields.io/github/stars/brayanrodallega?label=%E2%AD%90GitHub%20stars&style=flat-square)
+![](https://komarev.com/ghpvc/?username=brayanrodallega&style=flat-square&color=ff69b4)
+<img src="https://img.shields.io/badge/discord-Brayan1a1%239991-369?style=flat-square&logo=discord&logoColor=white&color=purple" alt="Discord" title="Discord">
+ <a href="https://www.linkedin.com/in/brayanrodallega/">
+        <img src="https://img.shields.io/badge/linkedIn-Brayan Rodallega-1DB954?style=flat-square&logo=linkedin&logoColor=white&color=blue" alt="LinkedIn" title="LinkedIn">
+</a>
+
 - 💬 Pregúntame sobre **Html5,Css,JavaScript,React.js**
 
 - 📫 Contactame **oscar4545@hotmail.com**
