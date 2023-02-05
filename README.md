@@ -5,7 +5,7 @@
 
 <br><br>
 
-- 💬 Pregúntame sobre **Html5,Css,JavaScript,React.js**
+- 💬 Pregúntame sobre **Html5, Css3, JavaScript, React.js**
 
 - 📫 Contactame **oscar4545@hotmail.com**
 
