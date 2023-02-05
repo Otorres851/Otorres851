@@ -3,7 +3,7 @@
 
 <img align='right' src="https://github.com/BhavyaCodes/BhavyaCodes/blob/master/.github/cat.gif" height="" width="300" alt="coding cat">
 
-<br><br>
+<br>
 
 - 💬 Pregúntame sobre **Html5, Css3, JavaScript, React.js**
 
