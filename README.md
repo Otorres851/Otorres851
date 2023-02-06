@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Me llamo Oscar Enrique Botello Torres</h1>
+<h1 align="center">Hola <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, Me llamo Oscar Enrique Botello Torres</h1>
 <h3 align="center">Soy desarrollador Frontend Jr, apasionado por la tecnología</h3>
 
 <img align='right' src="https://github.com/BhavyaCodes/BhavyaCodes/blob/master/.github/cat.gif" height="" width="300" alt="coding cat">
